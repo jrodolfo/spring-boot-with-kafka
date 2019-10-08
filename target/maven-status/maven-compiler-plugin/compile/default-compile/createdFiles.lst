@@ -1,0 +1,8 @@
+com\jrodolfo\springbootwithkafka\model\User.class
+com\jrodolfo\springbootwithkafka\controller\KafkaController.class
+com\jrodolfo\springbootwithkafka\model\Topic$Constants.class
+com\jrodolfo\springbootwithkafka\model\User$UserBuilder.class
+com\jrodolfo\springbootwithkafka\AppMain.class
+com\jrodolfo\springbootwithkafka\engine\Consumer.class
+com\jrodolfo\springbootwithkafka\model\Topic.class
+com\jrodolfo\springbootwithkafka\engine\Producer.class

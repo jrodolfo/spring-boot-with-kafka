@@ -1,12 +1,12 @@
 
 	Installing Apache Kafka on Windows and getting familiar with the Kafka CLI
 
-I took the most part of these instructions from this course:
+    I took the most part of these instructions from this course:
 
-	Apache Kafka Series - Learn Apache Kafka for Beginners v2 
-	https://www.udemy.com/course/apache-kafka/
+        Apache Kafka Series - Learn Apache Kafka for Beginners v2
+        https://www.udemy.com/course/apache-kafka/
 
-The course is great - I really recommend it.
+    The course is great - I highly recommend it.
 
 1) Install Kafka for Windows following the instructions from:
 

@@ -3,7 +3,7 @@
 
     I took the most part of these instructions from this course:
 
-        Apache Kafka Series - Learn Apache Kafka for Beginners v2
+        Apache Kafka Series - Learn Apache Kafka for Beginners v2, by Stephane Maarek
         https://www.udemy.com/course/apache-kafka/
 
     The course is great - I highly recommend it.
